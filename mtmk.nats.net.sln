@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".", ".", "{187C5625-E7D9-4D
 		Directory.Build.props = Directory.Build.props
 		dummy.png = dummy.png
 		README.md = README.md
+		version.txt = version.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{D14DFE92-DA8B-4A1F-BA37-7DC958F51152}"
